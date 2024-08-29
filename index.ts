@@ -1,1 +1,1 @@
-const _number: number = 5
+const _number: number = 5;
